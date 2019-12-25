@@ -48,7 +48,7 @@ Links for reference:
 
 2. Clone the project from GitHub Repository and Install all the necessary packages
 ```sh
-git clone https://github.com/neu-mis-info6150-fall-2019/final-project-cruisers
+git clone https://github.com/MaheshPrasad44/TrEx-WebProject
 cd final-project-cruisers
 npm install
 ```
