@@ -1,4 +1,4 @@
-<h1>TrEx - Your Travel Buddy</h1>
+<h1>TrEx - Your Travel Buddy - Web Application</h1>
 
 New to the city?
 Bringing the world together through live experiences
